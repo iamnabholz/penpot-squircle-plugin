@@ -1,6 +1,6 @@
 penpot.ui.open("SQUIRCLES", `?theme=${penpot.theme}`, {
   width: 260,
-  height: 300,
+  height: 260,
 });
 
 function createSquircleSVG(
