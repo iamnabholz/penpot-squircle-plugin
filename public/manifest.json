@@ -1,6 +1,7 @@
 {
-  "name": "Penpot starter plugin",
+  "name": "SQUIRCLES",
   "code": "plugin.js",
-  "description": "This is a starter plugin for Penpot",
+  "icon": "content/icon.png",
+  "description": "Generate squircle shapes for your Penpot designs",
   "permissions": ["content:read", "content:write"]
 }
