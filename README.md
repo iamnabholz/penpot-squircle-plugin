@@ -8,6 +8,6 @@ Generate squircle shapes for your designs!
 
 Open the plugins modal in your Penpot project and add the next url
 
-- https://....netlify.app/manifest.json
+- https://penpot-squircle-plugin.netlify.app/manifest.json
 
 Click install and you're setup!
